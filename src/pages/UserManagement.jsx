@@ -187,7 +187,7 @@ const UserManagement = () => {
                     backgroundColor: "#007bff",
                     color: "white",
                     border: "none",
-                    borderRadius: "5px",
+                    borderRadius: "6px",
                     cursor: "pointer",
                   }}
                 >
